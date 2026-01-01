@@ -1,0 +1,7 @@
+db_create/data/audio/
+*.pt
+*.tsv
+.env
+/archive/
+.vscode/
+__pycache__/

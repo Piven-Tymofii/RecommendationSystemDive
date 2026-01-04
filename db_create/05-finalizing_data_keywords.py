@@ -1,3 +1,8 @@
+'''
+In this script, I experimented with extracting keywords from the generated captions.
+Saves results to 'keywords_output.csv'.
+'''
+
 # --- Config ---------------------------------------------------------------
 CAPTIONS_CSV = "data\captions_checkpoint.csv"          
 OUTPUT_CSV   = "data\keywords_output.csv"

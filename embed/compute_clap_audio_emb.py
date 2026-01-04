@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Compute & save CLAP audio embeddings (batched, resumable, memory-friendly).
 

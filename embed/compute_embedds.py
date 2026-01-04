@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Build and store text embeddings:
  - SBERT embeddings (for FAISS shortlist)

@@ -1,3 +1,9 @@
+'''
+Generate captions for audio clips using a quantized Qwen2-Audio model.
+Saves results incrementally to a checkpoint CSV. 
+Results - captioned data saved to 'captions_checkpoint.csv'.
+'''
+
 import os
 import logging
 from concurrent.futures import ThreadPoolExecutor, as_completed

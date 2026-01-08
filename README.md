@@ -59,21 +59,19 @@ User query -> SBERT search (fast) -> candidate set -> CLAP rerank (precise) -> f
 
 ### 1. Prompt: "Dark aesthetic rock piece with female vocals and electro guitar"
 Top result:
-[▶️ Play audio](examples\rock_example.mp3)
+[▶️ Download audio](examples\rock_example.mp3)
 
 ### 2. Prompt: "A fast techno with futuristic vibe and synth"
 Top result:
-[▶️ Play audio](examples\techno_futuristic.mp3)
+[▶️ Download audio](examples\techno_futuristic.mp3)
 
 ### 3. I also got a video recorded to showcase how I use the recomendation system to recieve a valid recommendations:
 
-```html
-<video controls src="examples\yoga_example.mp4" style="max-width: 100%; height: auto;" preload="metadata"></video>
-```
+[![Watch the video](https://img.youtube.com/vi/pfGHCjmyatg/maxresdefault.jpg)](https://youtu.be/pfGHCjmyatg)
 
-Prompt: "Morning yoga soundtrack with sounds of ocean waves, nature"
-Top result:
-[▶️ Play audio](examples\yoga_nature.mp3)
+
+Prompt: "Morning yoga soundtrack with sounds of ocean waves, nature"  
+Top result: [▶️ Download audio](examples\yoga_nature.mp3)
 
 
 
